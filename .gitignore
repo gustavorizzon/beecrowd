@@ -1,3 +1,14 @@
-a.out
-input.txt
-output.txt
+# ignore tudo
+*
+
+# permitir diretórios
+!*/
+
+# permitir o próprio gitignore
+!.gitignore
+
+# permitir extensões específicas
+!*.md
+!*.cpp
+!*.h
+!*.c
