@@ -12,3 +12,4 @@
 !*.cpp
 !*.h
 !*.c
+!.clang-format
